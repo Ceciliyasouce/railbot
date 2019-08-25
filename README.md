@@ -1,1 +1,2 @@
 # railbot
+print('hello')
